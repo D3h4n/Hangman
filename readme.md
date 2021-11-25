@@ -7,7 +7,7 @@ A simple command line hangman game
 ## Compilation & Running
 
 Compile: `make`
-Runing: `./hangman`
+Running: `./hangman`
 
 ## Options
 
